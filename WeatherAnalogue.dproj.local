@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2013/12/13 16:02:32.000.524,C:\Analoge_orig\Splash.pas=</Transaction>
+    <Transaction>2013/12/16 15:24:05.000.222,=C:\WA\Analoge_new\fmxutils.pas</Transaction>
+    <Transaction>2013/12/16 16:04:10.000.173,C:\WA\Analoge_new\Unit13.pas=C:\WA\Analoge_new\AboutFr.pas</Transaction>
+    <Transaction>2013/12/16 16:04:10.000.173,C:\WA\Analoge_new\Unit13.dfm=C:\WA\Analoge_new\AboutFr.dfm</Transaction>
+    <Transaction>2013/12/16 16:06:34.000.592,C:\WA\Analoge_new\Unit1.pas=C:\WA\Analoge_new\MainFr.pas</Transaction>
+    <Transaction>2013/12/16 16:06:34.000.592,C:\WA\Analoge_new\Unit1.dfm=C:\WA\Analoge_new\MainFr.dfm</Transaction>
+    <Transaction>2013/12/17 09:21:11.000.288,C:\WA\Analoge_new\Weather_Analogue.dproj=C:\WA\Analoge_new\WeatherAnalogue.dproj</Transaction>
+    <Transaction>2014/07/16 21:00:10.000.394,=C:\WeatherAnaloge 09\Unit1.pas</Transaction>
+    <Transaction>2014/07/18 14:20:43.000.603,=C:\WeatherAnaloge 10\Profiling\AQtimeModule1.aqt</Transaction>
+    <Transaction>2014/07/22 16:02:56.000.549,C:\WeatherAnaloge 10\Unit3.pas=C:\WeatherAnaloge 10\Unit1.pas</Transaction>
+    <Transaction>2014/07/22 16:02:56.000.549,C:\WeatherAnaloge 10\Unit3.dfm=C:\WeatherAnaloge 10\Unit1.dfm</Transaction>
+    <Transaction>2014/07/22 16:03:32.000.772,C:\WeatherAnaloge 10\Unit1.pas=C:\WeatherAnaloge 10\Unit3.pas</Transaction>
+    <Transaction>2014/07/22 16:03:32.000.772,C:\WeatherAnaloge 10\Unit1.dfm=C:\WeatherAnaloge 10\Unit3.dfm</Transaction>
+    <Transaction>2014/07/22 16:07:32.000.237,C:\WeatherAnaloge 10\Unit3.dfm=C:\WeatherAnaloge 10\Unit1.dfm</Transaction>
+    <Transaction>2014/07/22 16:07:32.000.237,C:\WeatherAnaloge 10\Unit3.pas=C:\WeatherAnaloge 10\Unit1.pas</Transaction>
+    <Transaction>2014/07/22 16:08:27.000.492,=C:\WeatherAnaloge 10\Unit1.pas</Transaction>
+    <Transaction>2014/07/23 08:08:42.000.935,C:\WeatherAnaloge 10\SeparateFr.dfm=C:\WeatherAnaloge 10\Unit1.dfm</Transaction>
+    <Transaction>2014/07/23 08:08:42.000.935,C:\WeatherAnaloge 10\SeparateFr.pas=C:\WeatherAnaloge 10\Unit1.pas</Transaction>
+    <Transaction>2014/07/23 08:09:55.000.844,C:\WeatherAnaloge 10\MultiFr.pas=C:\WeatherAnaloge 10\Unit3.pas</Transaction>
+    <Transaction>2014/07/23 08:09:55.000.844,C:\WeatherAnaloge 10\MultiFr.dfm=C:\WeatherAnaloge 10\Unit3.dfm</Transaction>
+    <Transaction>2014/07/23 08:31:06.000.445,C:\WeatherAnaloge 10\ConfigureFr.pas=C:\WeatherAnaloge 10\Unit23.pas</Transaction>
+    <Transaction>2014/07/23 08:31:06.000.445,C:\WeatherAnaloge 10\ConfigureFr.dfm=C:\WeatherAnaloge 10\Unit23.dfm</Transaction>
+    <Transaction>2014/07/23 08:34:54.000.368,C:\WeatherAnaloge 10\ModDataFr.pas=C:\WeatherAnaloge 10\Unit2.pas</Transaction>
+    <Transaction>2014/07/23 08:34:54.000.368,C:\WeatherAnaloge 10\ModDataFr.dfm=C:\WeatherAnaloge 10\Unit2.dfm</Transaction>
+    <Transaction>2014/08/10 21:11:10.000.250,=C:\WeatherAnalogue 12\UpdateUnit.pas</Transaction>
+    <Transaction>2014/08/10 21:11:36.000.862,=C:\WeatherAnalogue 12\WhatsNewFr.pas</Transaction>
+    <Transaction>2014/08/11 20:23:30.000.813,=C:\WeatherAnalogue 12\Unit1.pas</Transaction>
+    <Transaction>2014/08/11 20:24:54.000.200,C:\WeatherAnalogue 12\Unit1.dfm=C:\WeatherAnalogue 12\DeleteProjFr.dfm</Transaction>
+    <Transaction>2014/08/11 20:24:54.000.200,C:\WeatherAnalogue 12\Unit1.pas=C:\WeatherAnalogue 12\DeleteProjFr.pas</Transaction>
+    <Transaction>2014/08/15 21:01:49.000.198,=C:\WeatherAnalogue 13\HelpFile.pas</Transaction>
+  </Transactions>
+</BorlandProject>
