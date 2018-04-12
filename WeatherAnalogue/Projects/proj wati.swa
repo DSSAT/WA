@@ -1,0 +1,8 @@
+*WEATHER KNN SEP: proj wati.lst
+ 
+*FILES
+ 
+@N  WEATHER     WTHFILE      WTHDIR
+1 WEATH WATE9901.WTH C:\DSSAT46\Tools\WeatherAnalogue\Separate\
+1 HISTO WATE4001.WTH C:\DSSAT46\Tools\WeatherAnalogue\Separate\Histo\
+1 PREDICT WATE9901.WTH C:\DSSAT46\Tools\WeatherAnalogue\Separate\Predict
